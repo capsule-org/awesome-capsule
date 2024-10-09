@@ -24,7 +24,8 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 - [Official Blog](https://blog.usecapsule.com)
 
 ## Community
-- [NextJS+Capsule for Eigenlayer](https://gist.github.com/dabit3/d71964bcab62bd5ae6e1cdc0402bf681) by [dabit3](https://gist.github.com/dabit3)- a Gist adding Capsule to an [Eigenlayer](https://www.eigenlayer.xyz/) NextJS app
+- [NextJS+Capsule for Eigenlayer](https://gist.github.com/dabit3/d71964bcab62bd5ae6e1cdc0402bf681) by [dabit3](https://github.com/dabit3) - a Gist adding Capsule to an [Eigenlayer](https://www.eigenlayer.xyz/) NextJS app
+- [Scaffold-ETH 2 extension with Capsule](https://github.com/tantodefi/capsule-extension) by [tantodefi](https://github.com/tantodefi) - A Scaffold-ETH 2 extension pre-configured with Capsule for email and SMS login with MPC
 
 ## Developers
 
