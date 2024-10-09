@@ -24,7 +24,7 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 - [Official Blog](https://blog.usecapsule.com)
 
 ## Community
-
+- [NextJS+Capsule for Eigenlayer](https://gist.github.com/dabit3/d71964bcab62bd5ae6e1cdc0402bf681) by [dabit3](https://gist.github.com/dabit3)- a Gist adding Capsule to an [Eigenlayer](https://www.eigenlayer.xyz/) NextJS app
 
 ## Developers
 
