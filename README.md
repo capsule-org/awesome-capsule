@@ -33,13 +33,13 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 
 ## Other
 
-- Community: Coming soon!
+- Slack Community: Coming soon!
 - Support: email support@usecapsule.com with any questions
 - Say Hello: email us at hello@usecapsule.com with feature requests, ideas, and more!
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
