@@ -26,7 +26,8 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 ## Community
 - [NextJS+Capsule for Eigenlayer](https://gist.github.com/dabit3/d71964bcab62bd5ae6e1cdc0402bf681) by [dabit3](https://github.com/dabit3) - a Gist adding Capsule to an [Eigenlayer](https://www.eigenlayer.xyz/) NextJS app
 - [Scaffold-ETH 2 extension with Capsule](https://github.com/tantodefi/capsule-extension) by [tantodefi](https://github.com/tantodefi) - A Scaffold-ETH 2 extension pre-configured with Capsule for email and SMS login with MPC
-- [Telegram Bot Demo](https://github.com/DegenHouseDeFi/capsule-telegram-bot-demo) by [DegenHouse](https://github.com/DegenHouseDeF) - A Telegram bot utilizing Capsule's Pregen Wallets for embedded wallets within the app and transactions 
+- [Telegram Bot Demo](https://github.com/DegenHouseDeFi/capsule-telegram-bot-demo) by [DegenHouse](https://github.com/DegenHouseDeF) - A Telegram bot utilizing Capsule's Pregen Wallets for embedded wallets within the app and transactions
+- [Blockchain HQ](https://github.com/jaydippatel83/ethglobal_blockchain_hq) by [CodeCrunch](https://github.com/CodeCrunch-Techlabs) - BlockchainHQ is a super app for developers to contribute, collaborate, and unlock work opportunities in the crypto space, leveraging Capsule.
 
 ## Developers
 
