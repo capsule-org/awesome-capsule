@@ -26,6 +26,7 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 ## Community
 
 - [NextJS+Capsule for Eigenlayer](https://gist.github.com/dabit3/d71964bcab62bd5ae6e1cdc0402bf681) by [dabit3](https://github.com/dabit3) - a Gist adding Capsule to an [Eigenlayer](https://www.eigenlayer.xyz/) NextJS app
+- [JustaName+Capsule Example Integration](https://github.com/JustaName-id/Capsule-JustaName?tab=readme-ov-file) by [JustaName](https://github.com/JustaName-id) - This repository demonstrates how to integrate Capsule’s embedded wallet solution with JustaName’s ENS subname management widget
 - [Scaffold-ETH 2 extension with Capsule](https://github.com/tantodefi/capsule-extension) by [tantodefi](https://github.com/tantodefi) - A Scaffold-ETH 2 extension pre-configured with Capsule for email and SMS login with MPC
 - [Telegram Bot Demo](https://github.com/DegenHouseDeFi/capsule-telegram-bot-demo) by [DegenHouse](https://github.com/DegenHouseDeF) - A Telegram bot utilizing Capsule's Pregen Wallets for embedded wallets within the app and transactions
 - [Tipsy](https://github.com/Aman035/tipsy) by [Aman035](https://github.com/Aman035) and [0xNilesh](https://github.com/0xNilesh) - A next-gen platform enabling seamless, intuitive, and secure tipping for your favorite creators on X and GitHub, using Capsule's Pregen Wallets
