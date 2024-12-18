@@ -30,6 +30,7 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 - [Telegram Bot Demo](https://github.com/DegenHouseDeFi/capsule-telegram-bot-demo) by [DegenHouse](https://github.com/DegenHouseDeF) - A Telegram bot utilizing Capsule's Pregen Wallets for embedded wallets within the app and transactions
 - [Tipsy](https://github.com/Aman035/tipsy) by [Aman035](https://github.com/Aman035) and [0xNilesh](https://github.com/0xNilesh) - A next-gen platform enabling seamless, intuitive, and secure tipping for your favorite creators on X and GitHub, using Capsule's Pregen Wallets
 - [Blockchain HQ](https://github.com/jaydippatel83/ethglobal_blockchain_hq) by [CodeCrunch](https://github.com/CodeCrunch-Techlabs) - BlockchainHQ is a super app for developers to contribute, collaborate, and unlock work opportunities in the crypto space, leveraging Capsule.
+- [JustaName+Capsule Example Integration](https://github.com/JustaName-id/Capsule-JustaName?tab=readme-ov-file) by [JustaName](https://github.com/JustaName-id) - This repository demonstrates how to integrate Capsule’s embedded wallet solution with JustaName’s ENS subname management widget
 
 ## Developers
 
