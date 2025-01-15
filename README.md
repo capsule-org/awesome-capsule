@@ -31,6 +31,7 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 - [Tipsy](https://github.com/Aman035/tipsy) by [Aman035](https://github.com/Aman035) and [0xNilesh](https://github.com/0xNilesh) - A next-gen platform enabling seamless, intuitive, and secure tipping for your favorite creators on X and GitHub, using Capsule's Pregen Wallets
 - [Blockchain HQ](https://github.com/jaydippatel83/ethglobal_blockchain_hq) by [CodeCrunch](https://github.com/CodeCrunch-Techlabs) - BlockchainHQ is a super app for developers to contribute, collaborate, and unlock work opportunities in the crypto space, leveraging Capsule.
 - [JustaName+Capsule Example Integration](https://github.com/JustaName-id/Capsule-JustaName?tab=readme-ov-file) by [JustaName](https://github.com/JustaName-id) - This repository demonstrates how to integrate Capsule’s embedded wallet solution with JustaName’s ENS subname management widget
+- [T3+NextJS+NextAuth+Capsule](https://github.com/jacksturt/capsule-example-with-nextauth) by [JackSturt](https://github.com/jacksturt) - This repository demonstrates how to integrate Capsule’s embedded wallet solution with NextAuth, so you can use the same session for both Capsule and NextAuth across your app (FE/BE/Middleware)
 
 ## Developers
 
