@@ -6,10 +6,15 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 
 ## Contents
 
-- [General](#community)
-- [Blog](#blog)
-- [Developers](#developers)
-- [Other](#other)
+- [Awesome Capsule ](#awesome-capsule-)
+  - [Contents](#contents)
+  - [General](#general)
+  - [Blog](#blog)
+  - [Community](#community)
+  - [Developers](#developers)
+  - [Other](#other)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## General
 
@@ -32,6 +37,7 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 - [Blockchain HQ](https://github.com/jaydippatel83/ethglobal_blockchain_hq) by [CodeCrunch](https://github.com/CodeCrunch-Techlabs) - BlockchainHQ is a super app for developers to contribute, collaborate, and unlock work opportunities in the crypto space, leveraging Capsule.
 - [JustaName+Capsule Example Integration](https://github.com/JustaName-id/Capsule-JustaName?tab=readme-ov-file) by [JustaName](https://github.com/JustaName-id) - This repository demonstrates how to integrate Capsule’s embedded wallet solution with JustaName’s ENS subname management widget
 - [T3+NextJS+NextAuth+Capsule](https://github.com/jacksturt/capsule-example-with-nextauth) by [JackSturt](https://github.com/jacksturt) - This repository demonstrates how to integrate Capsule’s embedded wallet solution with NextAuth, so you can use the same session for both Capsule and NextAuth across your app (FE/BE/Middleware)
+- [Vite+NextJS+Telegram+Capsule Wallet Bot Integration](https://github.com/gabrieltemtsen/capsule-twa) by [Gabe](https://github.com/gabrieltemtsen) - This repository demonstrates how to integrate Capsule’s SDK's with a Telegram bot and session management. It includes a Vite-based mini app for wallets & session authentication and a Next.js server backend that handles wallet operations, bot commands, and session management using Redis.
 
 ## Developers
 
