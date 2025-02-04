@@ -2,7 +2,7 @@
 
 > Curated list of awesome [Para](https://www.getpara.com) open-source links and community examples
 
-Capsule is a simple web3 signing solution that enables you to build secure cross-application embedded wallets using social logins and passkeys.
+Para is a simple web3 signing solution that enables you to build secure cross-application embedded wallets using social logins and passkeys.
 
 ## Contents
 
