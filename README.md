@@ -1,6 +1,6 @@
-# Awesome Capsule [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Para [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Curated list of awesome [Capsule](https://www.usecapsule.com) open-source links and community examples
+> Curated list of awesome [Para](https://www.getpara.com) open-source links and community examples
 
 Capsule is a simple web3 signing solution that enables you to build secure cross-application embedded wallets using social logins and passkeys.
 
@@ -13,15 +13,15 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 
 ## General
 
-- [Website](https://usecapsule.com)
-- [Twitter](https://x.com/usecapsule)
-- [Warpcast](https://warpcast.com/usecapsule)
-- [YouTube](https://www.youtube.com/@usecapsule)
-- [GitHub](https://github.com/capsule-org)
+- [Website](https://getpara.com)
+- [Twitter](https://x.com/get_para)
+- [Warpcast](https://warpcast.com/getpara)
+- [YouTube](https://www.youtube.com/@getpara)
+- [GitHub](https://github.com/getpara)
 
 ## Blog
 
-- [Official Blog](https://blog.usecapsule.com)
+- [Official Blog](https://blog.getpara.com)
 
 ## Community
 
@@ -36,14 +36,14 @@ Capsule is a simple web3 signing solution that enables you to build secure cross
 
 ## Developers
 
-- [Developer Docs](https://docs.cloudflare.com) - Developer docs including API references, feature specifications, and examples
-- [Official Examples](https://github.com/capsule-org/examples-hub) - Examples monorepo spanning web, mobile, desktop, and more
+- [Developer Docs](https://docs.getpara.com) - Developer docs including API references, feature specifications, and examples
+- [Official Examples](https://github.com/getpara/examples-hub) - Examples monorepo spanning web, mobile, desktop, and more
 
 ## Other
 
 - Slack Community: Coming soon!
-- Support: email support@usecapsule.com with any questions
-- Say Hello: email us at hello@usecapsule.com with feature requests, ideas, and more!
+- Support: email support@getpara.com with any questions
+- Say Hello: email us at hello@getpara.com with feature requests, ideas, and more!
 
 ## Contribute
 
