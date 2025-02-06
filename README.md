@@ -6,10 +6,15 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 
 ## Contents
 
-- [General](#community)
-- [Blog](#blog)
-- [Developers](#developers)
-- [Other](#other)
+- [Awesome Capsule ](#awesome-capsule-)
+  - [Contents](#contents)
+  - [General](#general)
+  - [Blog](#blog)
+  - [Community](#community)
+  - [Developers](#developers)
+  - [Other](#other)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## General
 
@@ -33,6 +38,8 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 - [JustaName+Capsule Example Integration](https://github.com/JustaName-id/Capsule-JustaName?tab=readme-ov-file) by [JustaName](https://github.com/JustaName-id) - This repository demonstrates how to integrate Capsule’s embedded wallet solution with JustaName’s ENS subname management widget
 - [T3+NextJS+NextAuth+Capsule](https://github.com/jacksturt/capsule-example-with-nextauth) by [JackSturt](https://github.com/jacksturt) - This repository demonstrates how to integrate Capsule’s embedded wallet solution with NextAuth, so you can use the same session for both Capsule and NextAuth across your app (FE/BE/Middleware)
 - [NICE - New Invite Capsule Event](https://github.com/aipop-fun/nice-capsule) by [codingsh](https://github.com/developerfred) - This repository showcases an innovative integration with Capsule's Pre-generated Wallet [API](https://github.com/aipop-fun/nice-api), featuring an enhanced user interface designed to onboard users into the Capsule ecosystem. Through an elegant rewards system, users can invite friends by gifting them NFTs, creating a seamless and engaging introduction to web3. The application eliminates traditional entry barriers by removing gas fees, making blockchain interaction accessible to newcomers.
+- [Vite+NextJS+Telegram+Capsule Wallet Bot Integration](https://github.com/gabrieltemtsen/capsule-twa) by [Gabe](https://github.com/gabrieltemtsen) - This repository demonstrates how to integrate Capsule’s SDK's with a Telegram bot and session management. It includes a Vite-based mini app for wallets & session authentication and a Next.js server backend that handles wallet operations, bot commands, and session management using Redis.
+
 
 ## Developers
 
